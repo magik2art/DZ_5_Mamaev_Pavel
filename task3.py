@@ -1,5 +1,3 @@
-
-
 def name_class(max_num):
     list_of_students = []
     for i in range(max_num):
